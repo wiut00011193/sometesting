@@ -1,0 +1,23 @@
+{
+    "learningJourneyPageTitle": "Обучающее путешествие",
+    "pageTitleNotifications": "Уведомления",
+    "pageTitleAttendance": "Посещаемость",
+    
+    "attendance": "Посещаемость",
+    "attendanceSeeAll": "Посмотреть все",
+    "exam": "Экзамен",
+    "examTotalScore": "Общий бал:",
+    "examResults": "Результаты экзамена",
+    "hackers": "Хакеры",
+    "coders": "Кодеры",
+    "gamers": "Геймеры",
+    "bookingList": "Записанные уроки",
+    "booked": "Записано",
+    "tutorBooking": "Записаться на урок",
+    "chooseTutor": "Выберите тутора",
+    "chooseDateAndTime": "Выберите день и время",
+    "confirm": "Подтвердить",
+    "tutorList": "Список туторов",
+    "days": "Дни",
+    "hours": "Время"
+}
